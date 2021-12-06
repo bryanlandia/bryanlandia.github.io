@@ -1,0 +1,3 @@
+[submodule "works/mapsmash"]
+	path = works/mapsmash
+	url = https://github.com/bryanlandia/mapsmash
