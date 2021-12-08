@@ -1,3 +1,6 @@
 [submodule "works/mapsmash"]
 	path = works/mapsmash
 	url = https://github.com/bryanlandia/mapsmash
+[submodule "works/terrainerd"]
+	path = works/terrainerd
+	url = https://github.com/bryanlandia/terrainerd
